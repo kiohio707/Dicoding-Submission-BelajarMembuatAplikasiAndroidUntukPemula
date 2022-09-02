@@ -1,7 +1,8 @@
-package id.com.example.dicoding_submission_belajarmembuataplikasiandroiduntukpemula
+package id.com.example.dicoding_submission_belajarmembuataplikasiandroiduntukpemula.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import id.com.example.dicoding_submission_belajarmembuataplikasiandroiduntukpemula.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

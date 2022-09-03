@@ -5,6 +5,6 @@ data class Firearm(
     var photo: Int = 0,
     var country: String = "",
     var caliber: String = "",
-    var capacity: String,
+    var capacity: String = "",
     var detail: String = ""
 )

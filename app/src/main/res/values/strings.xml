@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">Dicoding-Submission-BelajarMembuatAplikasiAndroidUntukPemula</string>
     <string name="senjata_api">SENJATA API</string>
+    <string name="firearm_name">Nama Senjata</string>
+    <string name="firearm_country">Negara Pengguna Senjata</string>
+    <string name="about">About</string>
+    <string name="firearm_caliber">Kaliber Senjata</string>
+    <string name="firearm_capacity">Kapasitas Senjata</string>
+    <string name="firearm_description">Deskripsi Senjata</string>
+    <string name="firearm_description_title">Judul Deskripsi Senjata</string>
+    <string name="name">Fernata Firdaus Purba</string>
+    <string name="email">fernata707@gmail.com</string>
 </resources>

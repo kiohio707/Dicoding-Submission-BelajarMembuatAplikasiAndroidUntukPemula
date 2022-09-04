@@ -3,9 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Belajar/Android/Dicoding-Submission-BelajarMembuatAplikasiAndroidUntukPemula/Submission/app/src/main/res/drawable/ic_about.xml" value="0.1" />
+        <entry key="..\:/Belajar/Android/Dicoding-Submission-BelajarMembuatAplikasiAndroidUntukPemula/Submission/app/src/main/res/layout-v26/activity_firearm_detail.xml" value="0.34791666666666665" />
+        <entry key="..\:/Belajar/Android/Dicoding-Submission-BelajarMembuatAplikasiAndroidUntukPemula/Submission/app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/Belajar/Android/Dicoding-Submission-BelajarMembuatAplikasiAndroidUntukPemula/Submission/app/src/main/res/layout/activity_firearm_detail.xml" value="0.25" />
         <entry key="..\:/Belajar/Android/Dicoding-Submission-BelajarMembuatAplikasiAndroidUntukPemula/Submission/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Belajar/Android/Dicoding-Submission-BelajarMembuatAplikasiAndroidUntukPemula/Submission/app/src/main/res/layout/activity_splash_screen.xml" value="0.18" />
         <entry key="..\:/Belajar/Android/Dicoding-Submission-BelajarMembuatAplikasiAndroidUntukPemula/Submission/app/src/main/res/layout/item_firearm.xml" value="0.25" />
+        <entry key="..\:/Belajar/Android/Dicoding-Submission-BelajarMembuatAplikasiAndroidUntukPemula/Submission/app/src/main/res/menu/menu_main.xml" value="0.14743589743589744" />
       </map>
     </option>
   </component>

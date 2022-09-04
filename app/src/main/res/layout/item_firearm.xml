@@ -10,36 +10,41 @@
     app:cardCornerRadius="4dp">
 
     <androidx.constraintlayout.widget.ConstraintLayout
-        android:id="@+id/rv_item_firearm"
+        android:id="@+id/cl_item_firearm"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="8dp">
 
         <LinearLayout
             android:id="@+id/ll_item_firearm"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:layout_marginEnd="8dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/iv_item_firearm"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
 
             <TextView
-                android:id="@+id/tv_item_name"
+                android:id="@+id/tv_name_item_firearm"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/academy_name"
+                android:text="@string/firearm_name"
                 android:textColor="@android:color/black"
                 android:textSize="15sp"
                 android:textStyle="bold" />
 
             <TextView
-                android:id="@+id/tv_item_rate"
+                android:id="@+id/tv_country_item_firearm"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/academy_rate" />
+                android:text="@string/firearm_country" />
         </LinearLayout>
 
         <de.hdodenhof.circleimageview.CircleImageView
-            android:id="@+id/img_item_photo"
+            android:id="@+id/iv_item_firearm"
             android:layout_width="55dp"
             android:layout_height="55dp"
             android:layout_toEndOf="@id/ll_item_firearm"
